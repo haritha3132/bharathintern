@@ -51,7 +51,7 @@
 
     <section>
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself and your skills.</p>
+        <p>I“Hi, I am Haritha Ummadi, a B.Tech graduate from Nandyal. I am passionate about coding and exploring new things.I am well versed with python,html,css. I am always excited to try out new things and explore new opportunties</p>
     </section>
 
     <section>
@@ -66,27 +66,14 @@
     </section>
 
     <section>
-        <h2>Projects</h2>
-        <div class="project">
-            <h3>Project 1</h3>
-            <p>Description of Project 1.</p>
-        </div>
-
-        <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of Project 2.</p>
-        </div>
-    </section>
-
-    <section>
         <h2>Contact</h2>
         <p>Email: 21am1a3132@svrec.ac.in</p>
         <p>LinkedIn: linkedin.com/in/Haritha Ummadi</p>
-        <p>GitHub: </p>
+        <p>GitHub:https://github.com/haritha3132/bharathintern.git </p>
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Haritha all rights reserved.</p>
     </footer>
 
 </body>
